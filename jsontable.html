@@ -16,6 +16,7 @@
                 <th>Extension</th>
                 <th>Joining Date</th>
                 <th>Salary</th>
+                <th>Team</th>
             </tr>
         </thead>
         <tfoot>
@@ -26,6 +27,7 @@
                 <th>Extension</th>
                 <th>Joining Date</th>
                 <th>Salary</th>
+                <th>Team</th>
             </tr>
         </tfoot>
     </table>
@@ -37,15 +39,16 @@
     
     <script type="text/javascript">
     $(document).ready(function() {
-        $('#empTable').dataTable({
+        $('#HW1').dataTable({
             "ajax": "HW1.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "Name"},
+                {"data": "Designation"},
+                {"data": "Office"},
+                {"data": "Extension"},
+                {"data": "JoiningDate"},
+                {"data": "Salary"}
+                {"data": "Team"}
             ]
         });   
     });

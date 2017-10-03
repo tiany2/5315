@@ -1,117 +1,131 @@
 {
-  "CATALOG": {
-    "CD": [
+  "hw1-data": {
+    "record": [
       {
-        "TITLE": "Anna Bai",
-        "ARTIST": "Marketer",
-        "COUNTRY": "Redmond",
-        "COMPANY": "113",
-        "PRICE": "35998",
-        "YEAR": "65000"
+        "Name": "Anna Bai",
+        "Designation": "Marketer",
+        "Office": "Redmond",
+        "Extension": "113",
+        "JoiningDate": "35998",
+        "Salary": "65000",
+        "Team": "A"
       },
       {
-        "TITLE": "Jimmy Lam",
-        "ARTIST": "Sales",
-        "COUNTRY": "Kirkland",
-        "COMPANY": "456",
-        "PRICE": "36008",
-        "YEAR": "60000"
+        "Name": "Jimmy Lam",
+        "Designation": "Sales",
+        "Office": "Kirkland",
+        "Extension": "456",
+        "JoiningDate": "36008",
+        "Salary": "60000",
+        "Team": "B"
       },
       {
-        "TITLE": "Linda Koveski",
-        "ARTIST": "Program Manager",
-        "COUNTRY": "Seattle",
-        "COMPANY": "235",
-        "PRICE": "36237",
-        "YEAR": "110000"
+        "Name": "Linda Koveski",
+        "Designation": "Program Manager",
+        "Office": "Seattle",
+        "Extension": "235",
+        "JoiningDate": "36237",
+        "Salary": "110000",
+        "Team": "A"
       },
       {
-        "TITLE": "Tim Hakuddo ",
-        "ARTIST": "Developer",
-        "COUNTRY": "Renton",
-        "COMPANY": "464",
-        "PRICE": "36919",
-        "YEAR": "100000"
+        "Name": "Tim Hakuddo ",
+        "Designation": "Developer",
+        "Office": "Renton",
+        "Extension": "464",
+        "JoiningDate": "36919",
+        "Salary": "100000",
+        "Team": "D"
       },
       {
-        "TITLE": "Adam Ladyman",
-        "ARTIST": "Designer",
-        "COUNTRY": "Bellevue",
-        "COMPANY": "958",
-        "PRICE": "36965",
-        "YEAR": "70000"
+        "Name": "Adam Ladyman",
+        "Designation": "Designer",
+        "Office": "Bellevue",
+        "Extension": "958",
+        "JoiningDate": "36965",
+        "Salary": "70000",
+        "Team": "F"
       },
       {
-        "TITLE": "Doris Ke",
-        "ARTIST": "Support",
-        "COUNTRY": "San Francisco",
-        "COMPANY": "234",
-        "PRICE": "37259",
-        "YEAR": "55000"
+        "Name": "Doris Ke",
+        "Designation": "Support",
+        "Office": "San Francisco",
+        "Extension": "234",
+        "JoiningDate": "37259",
+        "Salary": "55000",
+        "Team": "B"
       },
       {
-        "TITLE": "Ivy Sherman",
-        "ARTIST": "Operation",
-        "COUNTRY": "Woodinville",
-        "COMPANY": "452",
-        "PRICE": "38857",
-        "YEAR": "63000"
+        "Name": "Ivy Sherman",
+        "Designation": "Operation",
+        "Office": "Woodinville",
+        "Extension": "452",
+        "JoiningDate": "38857",
+        "Salary": "63000",
+        "Team": "E"
       },
       {
-        "TITLE": "linsey Miva",
-        "ARTIST": "Sales",
-        "COUNTRY": "Renton",
-        "COMPANY": "755",
-        "PRICE": "38859",
-        "YEAR": "60000"
+        "Name": "linsey Miva",
+        "Designation": "Sales",
+        "Office": "Renton",
+        "Extension": "755",
+        "JoiningDate": "38859",
+        "Salary": "60000",
+        "Team": "C"
       },
       {
-        "TITLE": "Carson Woodin",
-        "ARTIST": "Program Manager",
-        "COUNTRY": "Bellevue",
-        "COMPANY": "123",
-        "PRICE": "39661",
-        "YEAR": "110000"
+        "Name": "Carson Woodin",
+        "Designation": "Program Manager",
+        "Office": "Bellevue",
+        "Extension": "123",
+        "JoiningDate": "39661",
+        "Salary": "110000",
+        "Team": "A"
       },
       {
-        "TITLE": "Kirk Amala",
-        "ARTIST": "Developer",
-        "COUNTRY": "San Francisco",
-        "COMPANY": "525",
-        "PRICE": "39734",
-        "YEAR": "100000"
+        "Name": "Kirk Amala",
+        "Designation": "Developer",
+        "Office": "San Francisco",
+        "Extension": "525",
+        "JoiningDate": "39734",
+        "Salary": "100000",
+        "Team": "B"
       },
       {
-        "TITLE": "Kim Lee",
-        "ARTIST": "Designer",
-        "COUNTRY": "Woodinville",
-        "COMPANY": "145",
-        "PRICE": "39753",
-        "YEAR": "70000"
+        "Name": "Kim Lee",
+        "Designation": "Designer",
+        "Office": "Woodinville",
+        "Extension": "145",
+        "JoiningDate": "39753",
+        "Salary": "70000",
+        "Team": "A"
       },
       {
-        "TITLE": "Wani Love",
-        "ARTIST": "Support",
-        "COUNTRY": "Chicago",
-        "COMPANY": "640",
-        "PRICE": "39849",
-        "YEAR": "55000"
+        "Name": "Wani Love",
+        "Designation": "Support",
+        "Office": "Chicago",
+        "Extension": "640",
+        "JoiningDate": "39849",
+        "Salary": "55000",
+        "Team": "D"
       },
       {
-        "TITLE": "Sindney Jama",
-        "ARTIST": "Marketer",
-        "COUNTRY": "Vancouver",
-        "COMPANY": "582",
-        "PRICE": "39984",
-        "YEAR": "63000"
+        "Name": "Sindney Jama",
+        "Designation": "Marketer",
+        "Office": "Vancouver",
+        "Extension": "582",
+        "JoiningDate": "39984",
+        "Salary": "63000",
+        "Team": "D"
       },
       {
-        "TITLE": "Willliam Law",
-        "ARTIST": "Sales",
-        "COUNTRY": "Cleveland",
-        "COMPANY": "897",
-        "PRICE": "40398",
-        "YEAR": "60000"
+        "Name": "Willliam Law",
+        "Designation": "Sales",
+        "Office": "Cleveland",
+        "Extension": "897",
+        "JoiningDate": "40398",
+        "Salary": "60000",
+        "Team": "F"
       }
     ]
   }

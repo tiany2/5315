@@ -1,115 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CATALOG>
-	<CD>
-		<TITLE>Anna Bai</TITLE>
-		<ARTIST>Marketer</ARTIST>
-		<COUNTRY>Redmond</COUNTRY>
-		<COMPANY>113</COMPANY>
-		<PRICE>35998</PRICE>
-		<YEAR>65000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Jimmy Lam</TITLE>
-		<ARTIST>Sales</ARTIST>
-		<COUNTRY>Kirkland</COUNTRY>
-		<COMPANY>456</COMPANY>
-		<PRICE>36008</PRICE>
-		<YEAR>60000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Linda Koveski</TITLE>
-		<ARTIST>Program Manager</ARTIST>
-		<COUNTRY>Seattle</COUNTRY>
-		<COMPANY>235</COMPANY>
-		<PRICE>36237</PRICE>
-		<YEAR>110000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Tim Hakuddo </TITLE>
-		<ARTIST>Developer</ARTIST>
-		<COUNTRY>Renton</COUNTRY>
-		<COMPANY>464</COMPANY>
-		<PRICE>36919</PRICE>
-		<YEAR>100000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Adam Ladyman</TITLE>
-		<ARTIST>Designer</ARTIST>
-		<COUNTRY>Bellevue</COUNTRY>
-		<COMPANY>958</COMPANY>
-		<PRICE>36965</PRICE>
-		<YEAR>70000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Doris Ke</TITLE>
-		<ARTIST>Support</ARTIST>
-		<COUNTRY>San Francisco</COUNTRY>
-		<COMPANY>234</COMPANY>
-		<PRICE>37259</PRICE>
-		<YEAR>55000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Ivy Sherman</TITLE>
-		<ARTIST>Operation</ARTIST>
-		<COUNTRY>Woodinville</COUNTRY>
-		<COMPANY>452</COMPANY>
-		<PRICE>38857</PRICE>
-		<YEAR>63000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>linsey Miva</TITLE>
-		<ARTIST>Sales</ARTIST>
-		<COUNTRY>Renton</COUNTRY>
-		<COMPANY>755</COMPANY>
-		<PRICE>38859</PRICE>
-		<YEAR>60000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Carson Woodin</TITLE>
-		<ARTIST>Program Manager</ARTIST>
-		<COUNTRY>Bellevue</COUNTRY>
-		<COMPANY>123</COMPANY>
-		<PRICE>39661</PRICE>
-		<YEAR>110000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Kirk Amala</TITLE>
-		<ARTIST>Developer</ARTIST>
-		<COUNTRY>San Francisco</COUNTRY>
-		<COMPANY>525</COMPANY>
-		<PRICE>39734</PRICE>
-		<YEAR>100000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Kim Lee</TITLE>
-		<ARTIST>Designer</ARTIST>
-		<COUNTRY>Woodinville</COUNTRY>
-		<COMPANY>145</COMPANY>
-		<PRICE>39753</PRICE>
-		<YEAR>70000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Wani Love</TITLE>
-		<ARTIST>Support</ARTIST>
-		<COUNTRY>Chicago</COUNTRY>
-		<COMPANY>640</COMPANY>
-		<PRICE>39849</PRICE>
-		<YEAR>55000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Sindney Jama</TITLE>
-		<ARTIST>Marketer</ARTIST>
-		<COUNTRY>Vancouver</COUNTRY>
-		<COMPANY>582</COMPANY>
-		<PRICE>39984</PRICE>
-		<YEAR>63000</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Willliam Law</TITLE>
-		<ARTIST>Sales</ARTIST>
-		<COUNTRY>Cleveland</COUNTRY>
-		<COMPANY>897</COMPANY>
-		<PRICE>40398</PRICE>
-		<YEAR>60000</YEAR>
-	</CD>
-</CATALOG>
+<hw1-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Name>Anna Bai</Name>
+		<Designation>Marketer</Designation>
+		<Office>Redmond</Office>
+		<Extension>113</Extension>
+		<JoiningDate>35998</JoiningDate>
+		<Salary>65000</Salary>
+		<Team>A</Team>
+	</record>
+	<record>
+		<Name>Jimmy Lam</Name>
+		<Designation>Sales</Designation>
+		<Office>Kirkland</Office>
+		<Extension>456</Extension>
+		<JoiningDate>36008</JoiningDate>
+		<Salary>60000</Salary>
+		<Team>B</Team>
+	</record>
+	<record>
+		<Name>Linda Koveski</Name>
+		<Designation>Program Manager</Designation>
+		<Office>Seattle</Office>
+		<Extension>235</Extension>
+		<JoiningDate>36237</JoiningDate>
+		<Salary>110000</Salary>
+		<Team>A</Team>
+	</record>
+	<record>
+		<Name>Tim Hakuddo </Name>
+		<Designation>Developer</Designation>
+		<Office>Renton</Office>
+		<Extension>464</Extension>
+		<JoiningDate>36919</JoiningDate>
+		<Salary>100000</Salary>
+		<Team>D</Team>
+	</record>
+	<record>
+		<Name>Adam Ladyman</Name>
+		<Designation>Designer</Designation>
+		<Office>Bellevue</Office>
+		<Extension>958</Extension>
+		<JoiningDate>36965</JoiningDate>
+		<Salary>70000</Salary>
+		<Team>F</Team>
+	</record>
+	<record>
+		<Name>Doris Ke</Name>
+		<Designation>Support</Designation>
+		<Office>San Francisco</Office>
+		<Extension>234</Extension>
+		<JoiningDate>37259</JoiningDate>
+		<Salary>55000</Salary>
+		<Team>B</Team>
+	</record>
+	<record>
+		<Name>Ivy Sherman</Name>
+		<Designation>Operation</Designation>
+		<Office>Woodinville</Office>
+		<Extension>452</Extension>
+		<JoiningDate>38857</JoiningDate>
+		<Salary>63000</Salary>
+		<Team>E</Team>
+	</record>
+	<record>
+		<Name>linsey Miva</Name>
+		<Designation>Sales</Designation>
+		<Office>Renton</Office>
+		<Extension>755</Extension>
+		<JoiningDate>38859</JoiningDate>
+		<Salary>60000</Salary>
+		<Team>C</Team>
+	</record>
+	<record>
+		<Name>Carson Woodin</Name>
+		<Designation>Program Manager</Designation>
+		<Office>Bellevue</Office>
+		<Extension>123</Extension>
+		<JoiningDate>39661</JoiningDate>
+		<Salary>110000</Salary>
+		<Team>A</Team>
+	</record>
+	<record>
+		<Name>Kirk Amala</Name>
+		<Designation>Developer</Designation>
+		<Office>San Francisco</Office>
+		<Extension>525</Extension>
+		<JoiningDate>39734</JoiningDate>
+		<Salary>100000</Salary>
+		<Team>B</Team>
+	</record>
+	<record>
+		<Name>Kim Lee</Name>
+		<Designation>Designer</Designation>
+		<Office>Woodinville</Office>
+		<Extension>145</Extension>
+		<JoiningDate>39753</JoiningDate>
+		<Salary>70000</Salary>
+		<Team>A</Team>
+	</record>
+	<record>
+		<Name>Wani Love</Name>
+		<Designation>Support</Designation>
+		<Office>Chicago</Office>
+		<Extension>640</Extension>
+		<JoiningDate>39849</JoiningDate>
+		<Salary>55000</Salary>
+		<Team>D</Team>
+	</record>
+	<record>
+		<Name>Sindney Jama</Name>
+		<Designation>Marketer</Designation>
+		<Office>Vancouver</Office>
+		<Extension>582</Extension>
+		<JoiningDate>39984</JoiningDate>
+		<Salary>63000</Salary>
+		<Team>D</Team>
+	</record>
+	<record>
+		<Name>Willliam Law</Name>
+		<Designation>Sales</Designation>
+		<Office>Cleveland</Office>
+		<Extension>897</Extension>
+		<JoiningDate>40398</JoiningDate>
+		<Salary>60000</Salary>
+		<Team>F</Team>
+	</record>
+</hw1-data>

@@ -16,14 +16,15 @@
             url: "HW1.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('CD').each(function(){  
+             $(xml).find('record').each(function(){  
               t.row.add( [
-                $(this).find('NAME').text(),
-                $(this).find('DESIGNATION').text(),
-                $(this).find('OFFICE').text(),
-                $(this).find('EXTENSION').text(),
-                $(this).find('JOINING DATE').text(),
-                $(this).find('SALARY').text()
+                $(this).find('Name').text(),
+                $(this).find('Designation').text(),
+                $(this).find('Office').text(),
+                $(this).find('Extension').text(),
+                $(this).find('JoiningDate').text(),
+                $(this).find('Salary').text(),
+                $(this).find('Team').text()
               ] ).draw( false );
              });
             }
@@ -42,6 +43,7 @@
             <th>Extension</th>
             <th>Joining Date</th>
             <th>Salary</th>
+            <th>Team</th>
         </tr>
     </thead>
 
@@ -53,6 +55,7 @@
             <th>Extension</th>
             <th>Joining Date</th>
             <th>Salary</th>
+            <th>Team</th>
         </tr>
     </tfoot>
   </table>
@@ -78,13 +81,13 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Artist</th><th>Title</th></tr>";
-  var x = xmlDoc.getElementsByTagName("CD");
+  var table="<tr><th>Name</th><th>Designation</th></tr>";
+  var x = xmlDoc.getElementsByTagName("record");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("Name")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("Designation")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
