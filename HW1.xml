@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATALOG>
+	<CD>
+		<TITLE>Anna Bai</TITLE>
+		<ARTIST>Marketer</ARTIST>
+		<COUNTRY>Redmond</COUNTRY>
+		<COMPANY>113</COMPANY>
+		<PRICE>35998</PRICE>
+		<YEAR>65000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Jimmy Lam</TITLE>
+		<ARTIST>Sales</ARTIST>
+		<COUNTRY>Kirkland</COUNTRY>
+		<COMPANY>456</COMPANY>
+		<PRICE>36008</PRICE>
+		<YEAR>60000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Linda Koveski</TITLE>
+		<ARTIST>Program Manager</ARTIST>
+		<COUNTRY>Seattle</COUNTRY>
+		<COMPANY>235</COMPANY>
+		<PRICE>36237</PRICE>
+		<YEAR>110000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Tim Hakuddo </TITLE>
+		<ARTIST>Developer</ARTIST>
+		<COUNTRY>Renton</COUNTRY>
+		<COMPANY>464</COMPANY>
+		<PRICE>36919</PRICE>
+		<YEAR>100000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Adam Ladyman</TITLE>
+		<ARTIST>Designer</ARTIST>
+		<COUNTRY>Bellevue</COUNTRY>
+		<COMPANY>958</COMPANY>
+		<PRICE>36965</PRICE>
+		<YEAR>70000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Doris Ke</TITLE>
+		<ARTIST>Support</ARTIST>
+		<COUNTRY>San Francisco</COUNTRY>
+		<COMPANY>234</COMPANY>
+		<PRICE>37259</PRICE>
+		<YEAR>55000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Ivy Sherman</TITLE>
+		<ARTIST>Operation</ARTIST>
+		<COUNTRY>Woodinville</COUNTRY>
+		<COMPANY>452</COMPANY>
+		<PRICE>38857</PRICE>
+		<YEAR>63000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>linsey Miva</TITLE>
+		<ARTIST>Sales</ARTIST>
+		<COUNTRY>Renton</COUNTRY>
+		<COMPANY>755</COMPANY>
+		<PRICE>38859</PRICE>
+		<YEAR>60000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Carson Woodin</TITLE>
+		<ARTIST>Program Manager</ARTIST>
+		<COUNTRY>Bellevue</COUNTRY>
+		<COMPANY>123</COMPANY>
+		<PRICE>39661</PRICE>
+		<YEAR>110000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Kirk Amala</TITLE>
+		<ARTIST>Developer</ARTIST>
+		<COUNTRY>San Francisco</COUNTRY>
+		<COMPANY>525</COMPANY>
+		<PRICE>39734</PRICE>
+		<YEAR>100000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Kim Lee</TITLE>
+		<ARTIST>Designer</ARTIST>
+		<COUNTRY>Woodinville</COUNTRY>
+		<COMPANY>145</COMPANY>
+		<PRICE>39753</PRICE>
+		<YEAR>70000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Wani Love</TITLE>
+		<ARTIST>Support</ARTIST>
+		<COUNTRY>Chicago</COUNTRY>
+		<COMPANY>640</COMPANY>
+		<PRICE>39849</PRICE>
+		<YEAR>55000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Sindney Jama</TITLE>
+		<ARTIST>Marketer</ARTIST>
+		<COUNTRY>Vancouver</COUNTRY>
+		<COMPANY>582</COMPANY>
+		<PRICE>39984</PRICE>
+		<YEAR>63000</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Willliam Law</TITLE>
+		<ARTIST>Sales</ARTIST>
+		<COUNTRY>Cleveland</COUNTRY>
+		<COMPANY>897</COMPANY>
+		<PRICE>40398</PRICE>
+		<YEAR>60000</YEAR>
+	</CD>
+</CATALOG>
