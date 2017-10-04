@@ -1,5 +1,4 @@
 {
-  "hw1-data": {
     "record": [
       {
         "Name": "Anna Bai",
@@ -128,5 +127,4 @@
         "Team": "F"
       }
     ]
-  }
 }
