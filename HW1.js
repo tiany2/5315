@@ -1,5 +1,5 @@
 {
-    "record": [
+    "data": [
       {
         "Name": "Anna Bai",
         "Designation": "Marketer",
